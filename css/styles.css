@@ -1,0 +1,10 @@
+table {
+  width: 90%;
+  border: 3px solid purple;
+}
+td {
+  width: 6%;
+  padding-bottom: 6%;
+  height: 0;
+}
+td div { position: absolute }
